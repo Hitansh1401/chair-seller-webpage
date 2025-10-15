@@ -1,7 +1,3 @@
-Sure! Here's the complete **README** text you can copy and paste:
-
----
-
 # 🪑 Chair Shop - Responsive HTML/CSS Project
 
 This is a **responsive, static website** for a fictional "Chair Shop", designed using **HTML5** and **modern CSS (Flexbox + Grid)**. It showcases a clean, semantic structure and visually appealing layout inspired by real-world product landing pages.
@@ -77,6 +73,3 @@ This is a **responsive, static website** for a fictional "Chair Shop", designed 
 This project is open for educational and non-commercial use.
 Feel free to modify or reuse with proper attribution.
 
----
-
-Let me know if you'd like a Markdown file version of this or want to add GitHub-specific badges!
